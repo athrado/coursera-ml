@@ -98,3 +98,16 @@ These are my solutions for the exercises from the [Coursera course](https://www.
 - Visualization of projections
 - PCA for visualization
 - Face image application
+
+
+
+**Exercise 8: Anomaly Detection and Recommender Systems**
+
+- Anomaly detection
+- Gaussian distribution
+- Estimating parameters for Gaussian
+- Selecting threshold
+- Computing evaluation metrics (F1 score)
+- Collaborative filtering learning algorithm
+- Regularized cost and gradient for collaborative filtering
+- Learning movie recommendations
