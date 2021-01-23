@@ -2,9 +2,7 @@
 
 
 
-These are my solutions for the exercises from the [Coursera course](https://www.coursera.org/learn/machine-learning/home/welcome) *Machine Learning* by Andrew Ng. The problems were solved using MATLA/Octave. 
-
-
+These are my solutions for the exercises from the [Coursera course](https://www.coursera.org/learn/machine-learning/home/welcome) *Machine Learning* by Andrew Ng. The problems were solved using MATLA/Octave. You can verify my successful completion of the course [here](https://www.coursera.org/account/accomplishments/verify/DM68V8X5XH7B).
 
 **Exercise 1: Linear Regression**
 
